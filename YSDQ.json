@@ -35,11 +35,15 @@
           }
     ],
     "Ali": {
-        "token": "55c39cb673654d2baf5929c1cbe59a95"
+        "token": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"
     },
     "Bili": {
         "cookie": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/cookie.txt", 
         "category": "纪录片,纪录片|相声,相声小品"
+    },
+    "Zhaozy": {
+        "username": "输入用户名", 
+        "password": "输入密码"
     },
     "Zhibo": [
         {
